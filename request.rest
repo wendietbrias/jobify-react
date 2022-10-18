@@ -1,0 +1,12 @@
+GET http://localhost:8000/api/job/all
+
+
+# POST http://localhost:8000/api/auth/signin 
+# Content-Type: application/json 
+
+# {
+#     "name":"wendi",
+#     "email":"wendi@gmail.com",
+#     "password":"wendi123",
+#     "confirm":"wendi123"
+# }
